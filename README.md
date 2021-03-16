@@ -30,9 +30,13 @@ Road-Damage-Detection-System
 链接：https://pan.baidu.com/s/1M2n56VVLIbiGppXL4dDwzw 
 提取码：LZNT
 ## 功能示意
+- 选取并导入图片
 ![load_img](https://github.com/GaoKangYu/Road-Damage-Detection-System/blob/main/demo_ui_img/load_img.png)
+- 选取并导入视频
 ![load_video](https://github.com/GaoKangYu/Road-Damage-Detection-System/blob/main/demo_ui_img/load_video.png)
+- 检测图片
 ![img_detect_result](https://github.com/GaoKangYu/Road-Damage-Detection-System/blob/main/demo_ui_img/img_detect_result.png)
+- 检测视频
 ![video_detect_result](https://github.com/GaoKangYu/Road-Damage-Detection-System/blob/main/demo_ui_img/video_detect_result.png)
 ## 性能指标
 -  模型表现(基于linux，GTX 1080ti)
