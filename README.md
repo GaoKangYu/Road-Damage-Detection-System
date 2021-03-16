@@ -4,8 +4,8 @@
 -   路面病害对道路和行车安全构成潜在威胁，而至今没有具有高度适用性的自动化测量仪器可以使用。传统方法为人工目测排查，费时费力，数据的可比性和重复性都较差。
 -   项目选取车载相机或手机拍摄的路面图像为研究对象，基于[RDDC2020](https://github.com/sekilab/RoadDamageDetector)数据集，使用三种卷积神经网络（Fcos、FasterRcnn、YOLO v3）实现了道路损伤检测系统。
 -   本项目包含可执行演示系统和模型训练部分配置文件
-![demo_ui](https://github.com/GaoKangYu/Road-Damage-Detection-System/tree/main/demo_ui_img/ui.png)
-![dataset_composition](https://github.com/GaoKangYu/Road-Damage-Detection-System/tree/main/demo_ui_img/dataset_composition.png)
+![demo_ui](https://github.com/GaoKangYu/Road-Damage-Detection-System/blob/main/demo_ui_img/ui.png)
+![dataset_composition](https://github.com/GaoKangYu/Road-Damage-Detection-System/blob/main/demo_ui_img/dataset_composition.png)
 ## 环境需求
 -   Windows(demo) and Linux(model training)
 -   Python 3.5+
@@ -30,12 +30,12 @@ Road-Damage-Detection-System
 链接：https://pan.baidu.com/s/1M2n56VVLIbiGppXL4dDwzw 
 提取码：LZNT
 ## 功能示意
-![load_img](https://github.com/GaoKangYu/Road-Damage-Detection-System/tree/main/demo_ui_img/load_img.png)
-![load_video](https://github.com/GaoKangYu/Road-Damage-Detection-System/tree/main/demo_ui_img/load_video.png)
-![img_detect_result](https://github.com/GaoKangYu/Road-Damage-Detection-System/tree/main/demo_ui_img/img_detect_result.png)
-![video_detect_result](https://github.com/GaoKangYu/Road-Damage-Detection-System/tree/main/demo_ui_img/video_detect_result.png)
+![load_img](https://github.com/GaoKangYu/Road-Damage-Detection-System/blob/main/demo_ui_img/load_img.png)
+![load_video](https://github.com/GaoKangYu/Road-Damage-Detection-System/blob/main/demo_ui_img/load_video.png)
+![img_detect_result](https://github.com/GaoKangYu/Road-Damage-Detection-System/blob/main/demo_ui_img/img_detect_result.png)
+![video_detect_result](https://github.com/GaoKangYu/Road-Damage-Detection-System/blob/main/demo_ui_img/video_detect_result.png)
 ## 性能指标
 -  模型表现(基于linux，GTX 1080ti)
-![model_performance](https://github.com/GaoKangYu/Road-Damage-Detection-System/tree/main/demo_ui_img/model_performance.png)
+![model_performance](https://github.com/GaoKangYu/Road-Damage-Detection-System/blob/main/demo_ui_img/model_performance.png)
 -  模型表现(基于windows下demo，GTX 1660ti)
-![model_performance_based_on_demo](https://github.com/GaoKangYu/Road-Damage-Detection-System/tree/main/demo_ui_img/model_performance_based_on_demo.png)
+![model_performance_based_on_demo](https://github.com/GaoKangYu/Road-Damage-Detection-System/blob/main/demo_ui_img/model_performance_based_on_demo.png)
