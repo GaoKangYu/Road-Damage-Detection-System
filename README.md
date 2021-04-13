@@ -1,5 +1,7 @@
 # Road-Damage-Detection-System
 “道路损伤检测”项目
+## TBD
+- [ ] English version README
 ## 背景/需求
 -   路面病害对道路和行车安全构成潜在威胁，而至今没有具有高度适用性的自动化测量仪器可以使用。传统方法为人工目测排查，费时费力，数据的可比性和重复性都较差。
 -   项目选取车载相机或手机拍摄的路面图像为研究对象，基于[RDDC2020](https://github.com/sekilab/RoadDamageDetector)数据集，使用三种卷积神经网络（Fcos、FasterRcnn、YOLO v3）实现了道路损伤检测系统。
